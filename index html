@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Мини-игра на HTML</title>
+</head>
+<body>
+<h1>Ты стоишь на развилке</h1>
+<p>Куда пойдёшь?</p>
+<a href="forest.html">В лес</a><br>
+<a href="mountain.html">В горы</a>
+</body>
+</html>
